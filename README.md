@@ -11,3 +11,6 @@ A simple demo for integrating Spring Boot with Canal to monitor MySQL table chan
 2. Start MySQL
 3. Run `SpringbootWeb01Application`
 4. Perform CRUD operations on `user` table and check console output
+
+## Troubleshooting
+If the project fails to monitor MySQL table changes, run `CanalDemo.java`(then close it), and restart the application.
