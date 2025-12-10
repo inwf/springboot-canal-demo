@@ -7,4 +7,4 @@ create table user
 )
     charset = utf8mb3;
 
-INSERT INTO `canal-demo`.user (id, name, age) VALUES (1, 's 是 是', 11);
+INSERT INTO `canal-demo`.user (id, name, age) VALUES (1, '测试', 11);
