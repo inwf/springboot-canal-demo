@@ -3,7 +3,7 @@
 A simple demo for integrating Spring Boot with Canal to monitor MySQL table changes.
 
 ## Tech Stack
-- Canal 1.1.4
+- Canal 1.1.8
 - MySQL 8.0
 
 ## Run
